@@ -1,0 +1,34 @@
+.dev {
+  margin: 15px;
+  border: 5px solid black;
+  border-radius: 15px;
+  background-color: rgba(255, 234, 201, 0.452);
+  height: 400px;
+  width: 300px;
+}
+.dev-info {
+  margin-top: 10px;
+  text-align: center;
+}
+.hire-me-btn {
+  background-color: rgb(238, 245, 247);
+  width: 100px;
+  height: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  font-weight: 700;
+  color: rgb(2, 2, 2);
+  cursor: pointer;
+  font-size: 20px;
+}
+.cart-container {
+  margin: 10px;
+  border: 5px solid black;
+  border-radius: 15px;
+  background-color: rgba(255, 234, 201, 0.452);
+  height: 400px;
+  width: 300px;
+}
+.avatar {
+  border-radius: 15px;
+}
